@@ -1,6 +1,5 @@
 * [Projeto de potifólio pessoal](#Projeto-de-portifolio-pessoal)  
-* [Descrição](#descrição)  
-* [Introdução](#introdução)  
+* [Descrição](#descrição)    
 * [Funcionalidades](#funcionalidades)  
 * [Tecologias utilizadas](#tecologias-utilizadas)  
 * [Fontes consultadas](#fontes-consultadas)  
@@ -14,22 +13,25 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 
 ## 📄Descrição 
 O prjeto consiste em um calendario virtual que qualquer pessoa pode acessar atravez de seu smartphone ou computador.
-Possui a peleta em tons verdes;
-
-
-## ✔️Introdução
-
 
 ## 👾Funcionalidades
+Adicionar cor a dias no calendario;
+##### Tabela de cores
+* 💙Azul
+* 💚Verde 
+* 💗Rosa 
+* 💜Roxo  
 
 ### 🤖Tecologias utilizadas
 * HTML5
 * CSS
 * VsCode (Visual Code)
-* Bootstrap
+* JavaScript
 * GitHub
 ## 🔗Fontes consultadas
-
+*chat gpt
 ## ✒️Autores
+Juan Fernandes Goes de Souza
 
 ## Colaboradores
+Leonardo Santiago Sidon da Rocha.
