@@ -29,7 +29,7 @@ Adicionar cor a dias no calendario;
 * JavaScript
 * GitHub
 ## 🔗Fontes consultadas
-*chat gpt
+* hat gpt
 ## ✒️Autores
 Juan Fernandes Goes de Souza
 
