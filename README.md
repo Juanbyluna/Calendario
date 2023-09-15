@@ -1,4 +1,4 @@
-* [Projeto de potifólio pessoal](#Projeto-de-portifolio-pessoal)  
+* [Projeto calendario](#🗓️calendario)  
 * [Descrição](#descrição)    
 * [Funcionalidades](#funcionalidades)  
 * [Tecologias utilizadas](#tecologias-utilizadas)  
@@ -13,9 +13,10 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 
 ## 📄Descrição 
 O prjeto consiste em um calendario virtual que qualquer pessoa pode acessar atravez de seu smartphone ou computador.
+Possui apenas um mes
 
 ## 👾Funcionalidades
-Adicionar cor a dias no calendario;
+Adicionar cor a datas no calendario;
 ##### Tabela de cores
 * 💙Azul
 * 💚Verde 
