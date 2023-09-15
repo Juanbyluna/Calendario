@@ -30,7 +30,8 @@ Adicionar cor a datas no calendario;
 * JavaScript
 * GitHub
 ## 🔗Fontes consultadas
-* hat gpt
+* Chat gpt
+* Google
 ## ✒️Autores
 Juan Fernandes Goes de Souza
 
