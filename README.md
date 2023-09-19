@@ -27,9 +27,9 @@ Aplicar cor a data selecionada;
 ### 🤖Tecologias utilizadas
 * HTML 5
 * CSS 3
+* VsCode (Visual Code)
 
 ## 🔧Ferramentas utilizadas
-* VsCode (Visual Code)
 * JavaScript
 * GitHub
 ## 🔗Fontes consultadas
