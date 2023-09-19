@@ -35,6 +35,7 @@ Aplicar cor a data selecionada;
 ## 🔗Fontes consultadas
 * Chat gpt
 * Google
+* https://www.alura.com.br/
 
 ## 🤜🤛Colaboradores
 Leonardo Santiago Sidon da Rocha.
