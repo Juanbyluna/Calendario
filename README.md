@@ -14,7 +14,7 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 
 ## 👌Como usar
 
-![como Usar](comoUsar.png)
+<img src="imgs/comoUsar.mp4"> 
 
 ## 📄Descrição 
 
