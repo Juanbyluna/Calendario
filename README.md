@@ -13,7 +13,8 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 
 
 ## 👌Como usar
-![Como usar](comoUsar.gif)
+
+
 
 ## 📄Descrição 
 
