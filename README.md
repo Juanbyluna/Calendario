@@ -8,14 +8,6 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 * [Fontes consultadas](#fontes-consultadas)  
 * [Autores](#autores)  
 
-#### 💻Capa do projeto
-![Capa do projeto](capacalendario.png)
-
-
-## 👌Como usar
-
-
-
 ## 📄Descrição 
 
 O prjeto consiste em um calendario virtual que qualquer pessoa pode acessar atravez de seu smartphone ou computador.
